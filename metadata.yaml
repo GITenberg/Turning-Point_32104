@@ -1,0 +1,40 @@
+_repo: Turning-Point_32104
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Parsons, Philip B.
+    alias: Parsons, P. B. (Philip Brown)
+    gutenberg_agent_id: '34307'
+    url: http://www.gutenberg.org/2009/agents/34307
+covers:
+- cover_type: archival
+  image_path: 32104-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coppel, Alfred
+    aliases:
+    - Gilman, Robert Cham
+    - Marin, A. C.
+    - Coppel, Alfredo Jose de Arana-Marini
+    - Coppel, Alfredo José de Arana-Marini
+    birthdate: 1921
+    deathdate: 2004
+    gutenberg_agent_id: '25110'
+    url: http://www.gutenberg.org/2009/agents/25110
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Coppel
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: Turning Point
+url: http://www.gutenberg.org/ebooks/32104
